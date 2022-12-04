@@ -3,14 +3,14 @@
 }
 
 #thirdDiv {
-    width: 500px;
+    width: 600px;
     height: 500px;
-    background-color: beige;
+    background-color: red;
     padding: 50px;
-    border: 20px blue;
+    border: 20px solid blue;
 }
 
 #idSpan {
     font-size: 18px;
-    margin: 50px;
+    margin: px;
 }
