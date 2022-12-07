@@ -59,7 +59,6 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 #ejercicioSiete {
     flex-direction: row;
     align-items: flex-end;
-    align-self: center;
     
 }
     
